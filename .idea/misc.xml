@@ -29,7 +29,8 @@
         <entry key="..\:/Users/naufa/AndroidStudioProjects/apmobiot/app/src/main/res/drawable/seekbar_background.xml" value="0.178" />
         <entry key="..\:/Users/naufa/AndroidStudioProjects/apmobiot/app/src/main/res/drawable/seekbar_background_off.xml" value="0.179" />
         <entry key="..\:/Users/naufa/AndroidStudioProjects/apmobiot/app/src/main/res/drawable/thumb.xml" value="0.179" />
-        <entry key="..\:/Users/naufa/AndroidStudioProjects/apmobiot/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/apmobiot/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/naufa/AndroidStudioProjects/apmobiot/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
       </map>
     </option>
   </component>
